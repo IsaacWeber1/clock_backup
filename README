@@ -1,0 +1,6 @@
+Binary Clock - Isaac Weber, isaacw@udel.edu, 702608294
+
+    This binary clock displays 24 hour time in the format of
+    Hours : Minutes : Seconds. The current time is determined
+    in clock.sh and then piped into the main function for it
+    to be displayed.
